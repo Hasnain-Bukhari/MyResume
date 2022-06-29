@@ -3,7 +3,7 @@ name: Resume Deploy Package
 on:
   push:
     branches:
-      - get-resume-at-par
+      - main
       
 jobs:
   Forms-Resume-To-Share:
