@@ -1,4 +1,4 @@
-name: Form resume artefacts
+name: Resume Deploy Package
 
 on:
   push:
