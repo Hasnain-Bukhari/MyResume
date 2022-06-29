@@ -3,7 +3,7 @@ name: Form resume artefacts
 on:
   push:
     branches:
-      - main
+      - resume-as-par
       
 jobs:
   Forms-Resume-To-Share:
@@ -26,5 +26,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
-          branch: main # The branch the action should deploy to.
+          branch: resume-pages # The branch the action should deploy to.
           folder: public # The folder the action should deploy.
