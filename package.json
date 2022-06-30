@@ -28,6 +28,7 @@
     "jsonresume-theme-github": "^0.0.5",
     "jsonresume-theme-jacrys": "^1.0.4",
     "jsonresume-theme-kards": "^1.0.2",
+    "jsonresume-theme-keloran": "^1.0.2",
     "jsonresume-theme-papirus": "^0.0.5",
     "puppeteer": "^13.5.1"
   }

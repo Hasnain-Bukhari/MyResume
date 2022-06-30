@@ -27,7 +27,8 @@ const themesToLoad = [
     "papirus",
     "github",
     "jacrys",
-    "kards"
+    "kards",
+    "keloran"
 ];
 
 // Generate theme based static and pdf resumes
