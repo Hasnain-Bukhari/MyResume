@@ -23,7 +23,8 @@ const themesToLoad = [
     //"mocha-responsive",
     "actual",
     "short",
-    "autumn"
+    "autumn",
+    "papirus",
 ];
 
 // Generate theme based static and pdf resumes

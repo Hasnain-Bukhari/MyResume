@@ -25,6 +25,7 @@
     "underscore.string": "^3.3.5"
   },
   "dependencies": {
+    "jsonresume-theme-papirus": "^0.0.5",
     "puppeteer": "^13.5.1"
   }
 }
