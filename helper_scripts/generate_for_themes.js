@@ -27,7 +27,7 @@ const themesToLoad = [
     "papirus",
     "github",
     "jacrys",
-    "kards",
+    // "kards",
     "keloran"
 ];
 
