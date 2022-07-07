@@ -138,11 +138,12 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Web Engineering",
       "level": "Expert",
       "keywords": [
-        "HTML",
-        "Javascript"
+        "Software Architecture",
+        "Development and Troubleshooting",
+        "Project Management & Coordination"
       ]
     },
     {
@@ -166,37 +167,41 @@
       ]
     },
     {
-      "name": "Problem Solving",
+      "name": "Programming Languages",
       "level": "Advanced",
       "keywords": [
-        "CompetitiveProgramming",
-        "Abstract"
+        "C#",
+        "C++"
       ]
     },
     {
-      "name": "Draft documentation",
+      "name": "Web Programming",
       "level": "Proficient",
       "keywords": [
-        "docsify",
-        "Github",
-        "MARP",
-        "Joplin",
-        "MermaidJS",
-        "FormsIO"
+        "ASP.NET",
+        "(Web Form, MVC, .Net Core, Nhibernate, Entity Framework, ADO.NET, Web API, WCF and WPF),",
+        "Micro services",
+        "Elastic Search",
+        "Javascript/JQuery,",
+        "HTML/CSS"
       ]
     },
     {
-      "name": "Communication",
+      "name": "Reports",
       "level": "Competent",
       "keywords": [
-        "face-2-face",
-        "emails",
-        "presentations",
-        "conference",
-        "buy-in talks",
-        "negotiations",
-        "layman conversions",
-        "1:1s"
+        "Crystal Reports",
+        "JSReports"
+      ]
+    },
+    {
+      "name": "Reports",
+      "level": "Competent",
+      "keywords": [
+        "MS SQL",
+        "PostgreSQL",
+        "SQLLite",
+        "MongoDB"
       ]
     }
   ],
@@ -207,6 +212,14 @@
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Punjabi",
       "fluency": "Fluent"
     }
   ],
