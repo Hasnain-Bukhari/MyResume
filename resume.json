@@ -9,7 +9,7 @@
     "website": "https://www.linkedin.com/in/hasnain-bukhari-30494184",
     "summary": "Full Stack Developer with 5+ years of rich professional experience of building and delivering highly scalable, enterprise grade software products. I hold a Bachelor’s degree in Computer Sciences from the Punjab University College of Information Technology, Lahore, Pakistan",
      "location": {
-      "address": "Life Sukhumvit 28, floor 24th, 122 Sukhumvit Rd, Phra Khanong",
+      "address": "Life Sukhumvit 48, floor 24th, 122 Sukhumvit Rd, Phra Khanong",
       "postalCode": "10110",
       "city": "Bangkok",
       "countryCode": "TH",
@@ -36,7 +36,7 @@
       "description": "Tagline: Less Hassle, More Travel.",
       "position": "Full Stack Software Engineer",
       "url": "https://www.agoda.com/",
-      "startDate": "2022-03-14",
+      "startDate": "2021-12-13",
       "summary": "Leading several teams, working on solutions based upon distributed computing to make the e-commerce scene under the global travel space alive",
       "highlights": [
         "Working with teams to migrate long-running legacy systems to a newer and a better stack",
@@ -49,14 +49,14 @@
       ]
     },
     {
-      "name": "Gaditek",
-      "company": "Gaditek",
-      "location": "Karachi, Pakistan",
-      "description": "Gaditek falls under Disrupt.com group; Making electronic products for individuals around the world, from the developers around the world",
-      "position": "Software Engineering Manager",
-      "url": "https://www.gaditek.com/",
-      "startDate": "2021-03-29",
-      "endDate": "2022-03-02",
+      "name": "SSILHR",
+      "company": "Strategic System International",
+      "location": "Lahore, Pakistan",
+      "description": "Your Trusted Partner for End-to-End Technology Needs",
+      "position": "Senior Software Engineer",
+      "url": "https://www.ssidecisions.com/",
+      "startDate": "2019-11-01",
+      "endDate": "2021-12-10",
       "summary": "Provided leadership across the engineering organization for the aspects of hiring, processes, architecture, grooming individuals and solving complex problems",
       "highlights": [
         "Introduced a hiring process and its custodianship (aka The Hiring Squad!)",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "name": "SEEK",
-      "company": "SEEK",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Solving the problem of connecting the right candidate to the needful hirers",
-      "position": "Software Engineering Manager",
-      "url": "https://www.seek.com.au/",
-      "startDate": "2020-02-01",
-      "endDate": "2021-03-31",
+      "name": "CMDLHR",
+      "company": "CureMD",
+      "location": "Lahore, Pakistan",
+      "description": "CureMD's cloud based EHR, Telemedicine & Medical Billing Services Fully Equip Your Practice & Let You Provide Optimal Patient Care",
+      "position": "Software Engineer",
+      "url": "https://www.curemd.com/",
+      "startDate": "2017-09-01",
+      "endDate": "2019-11-01",
       "summary": "SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed.",
       "highlights": [
         "Contributed to SEEKs overall product & technology strategy and aligned systems with that strategy",
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "name": "SEEK",
-      "company": "SEEK",
-      "location": "Kuala Lumpur, Malaysia",
+      "name": "LILHR",
+      "company": "Logix Infinity",
+      "location": "Lahore, Pakistan",
       "description": "Solving the problem of connecting the right candidate to the needful hirers",
-      "position": "Lead Software Architect",
-      "url": "https://www.seek.com.au/",
-      "startDate": "2018-05-01",
-      "endDate": "2020-01-01",
+      "position": "Software Engineer",
+      "url": "http://logixinfinity.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2017-09-01",
       "summary": "SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed.",
       "highlights": [
         "Been the catalyst for transforming the organization",
@@ -122,89 +122,6 @@
         "Pushed cloud-first approach in the org, living in an environment of Infra ops",
         "With the help of fellow architects, I invested time in a flourishing framework of single identity throughout SEEK systems; We did this through educating, enabling, and supporting the needful tools for the teams",
         "Created several SDKs for a single identity solution within Seek with complete automation and tests. Later helped teams adopt them into various systems"
-      ]
-    },
-    {
-      "name": "Exact",
-      "company": "Exact",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Cloud business software for SMEs and their accountants",
-      "position": "Senior Software Engineer (Full-Stack)",
-      "url": "https://www.exact.com/",
-      "startDate": "2016-10-01",
-      "endDate": "2018-01-01",
-      "summary": "We are Exact. We make smart business software. We are entrepreneurial and dream big, just like you. We help and encourage anyone we work with to always be the best version of themselves.",
-      "highlights": [
-        "Helped to come up with an end-to-end pipeline to build and release the product",
-        "Performed various tasks, including coding, building, testing, releasing and debugging the product",
-        "Made massive use of automation, including development and release cycles",
-        "Helped to produce tools that are helpful during the lifecycle of the product. Usually as a need to support the development",
-        "Helped POC the product initially with our customers to set up our product owner for the product's success",
-        "Created a framework single-handedly to help my fellow teammates with the needs of React Navigation and enable them to flourish their work distributedly and without flaws",
-        "Created and open-sourced a library that behaves as a HOC for navigation matters around React space",
-        "Created an in-house tool (based on ElectronJS) for various development teams that helps with the consumption of APIs without open API specs (legacy systems)"
-      ]
-    },
-    {
-      "name": "Hexosys",
-      "company": "Hexosys",
-      "location": "Kuala Lumpur, Malaysia",
-      "description": "Albaloo is a fast growing location based advertising platform, consists of Mobile App, Web Portal, Social Media Fan Pages and 3rd Party Advertising Partners.",
-      "position": "Senior Software Engineer",
-      "url": "https://www.hexosys.com/",
-      "startDate": "2015-11-01",
-      "endDate": "2016-10-01",
-      "summary": "Accomplishing more than 150 main products as cutting-edge technology protocol/bus analyzers, reveals great ability of HexoSys to delivering new projects within the field of expertise with complete maturity and high competitive to the global high-tech market.",
-      "highlights": [
-        "Helped in a complete overhaul and rewriting of parts of the Albaloo product",
-        "Added the ability to target users through multi communication channels (SMS, emails, mobile notifications etc.)",
-        "Helped product with identifying with and implementing the ability of geo fencing the ads in the current platform",
-        "Introduced a custom framework on top of Laravel's current implementation to support custom JavaScript loading in the layout",
-        "Initialized and laid the basis for automation in the project, simplifying and making some tedious tasks process-oriented",
-        "Helped teams with mocks to let them produce their artefacts accordingly. Later replaced with the accurate data bounded by the contracts",
-        "Helped in versioning the APIs so that various teams in the organization consume their needed bits and are working harmoniously"
-      ]
-    },
-    {
-      "name": "Experian",
-      "company": "Experian",
-      "location": "Cyberjaya, Malaysia",
-      "description": "I worked on Experian Marketing Suite. It manages marketing campaigns in a cross-channel way. Whether Twitter, Facebook, email, SMS, or other such means, it covers them all.",
-      "position": "Senior Software Developer",
-      "url": "https://www.experian.co.uk",
-      "startDate": "2014-07-01",
-      "endDate": "2015-10-01",
-      "summary": "Accomplishing more than 150 main products as cutting-edge technology protocol/bus analyzers, reveals great ability of HexoSys to delivering new projects within the field of expertise with complete maturity and high competitive to the global high-tech market.",
-      "highlights": [
-        "Assisted developers with a better approach to the problem at hand. I have to talk with my Team lead and the Architect to finalise a software architecture decision",
-        "Primarily worked on the architectural aspects of the code, but I sometimes had the requirement to fix bugs and further minor changes",
-        "Got myself certified with CITA-F to get relevant in the architecture escape and software practices",
-        "Helped with adopting EHAB in various parts of our legacy application",
-        "Debugged and fixed various system parts containing loads of stored procedures and complex SQL queries"
-      ]
-    },
-    {
-      "name": "Pi-Labs",
-      "company": "Pi-Labs",
-      "location": "Karachi, Pakistan",
-      "description": "A service provider for various kinds of software needs to our clients.",
-      "position": "Chief Technology Officer",
-      "url": "http://pilabs.com/",
-      "startDate": "2010-06-01",
-      "endDate": "2014-02-01",
-      "summary": "Our passion for mobile software and our ability to deliver engaging solutions has given us much acclaim. Early adoption of Windows Phone 7 meant we were one of the first companies globally to have produced an app for the Microsoft Marketplace. Yet, our expertise encompasses the breadth of the smartphone ecosystems, including iOS, Android and Palm’s WebOS.",
-      "highlights": [
-        "This was my earliest position as a technical leader, and I was going through significant learning",
-        "Helped organization with various services-based projects; Dealt with multiple platforms and technologies",
-        "Created, architected and maintained a homegrown idea that later shifted to become Garfield's official game, Feed Garfield. The internal project name was Candy Pot. It was a team effort",
-        "Created, architected and maintained an idea in collaboration with our partner. It was a video and audio processing app; These were early days when Snapchat didn't exist; The project was named Gulf Talk",
-        "Worked on an aggregator banking solution known as Mobank for UK based banks. Clients were able to control their various accounts through this app",
-        "Pioneered the space of Windows 8 initial launching apps for Microsoft Singapore; some were CNA, DBS Bank Singapore, and The Straits Times Singapore",
-        "Worked on various 2d and 3d games",
-        "Used and improved the Cocos2dx platform to flourish 2d games on cross-platform technologies",
-        "Written several frameworks myself and open-sourced them later to help the community; To mention some: EasyNDK-for-cocos2dx, Easy-CURL-for-PHP",
-        "Gelled along with various individual contributors to help the organization meet its financial goal",
-        "Presented learnings and findings at various university events and global technology events"
       ]
     }
   ],
