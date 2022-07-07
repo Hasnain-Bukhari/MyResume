@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "CMDLHR",
+      "name": "CureMD",
       "company": "CureMD",
       "location": "Lahore, Pakistan",
       "description": "CureMD's cloud based EHR, Telemedicine & Medical Billing Services Fully Equip Your Practice & Let You Provide Optimal Patient Care",
@@ -102,38 +102,40 @@
   ],
   "education": [
     {
-      "institution": "FAST - NUCES",
-      "name": "National University of Computer and Emerging Sciences",
-      "url": "http://khi.nu.edu.pk",
+      "institution": "PUCIT",
+      "name": "Punjab University College of Information and Technology",
+      "url": "http://pucit.edu.pk",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2006-06-01",
-      "endDate": "2010-07-01",
+      "startDate": "2012-07-01",
+      "endDate": "2016-09-01",
       "courses": [
-        "Digital Logic Design",
-        "Assembly Language",
-        "Data Structures",
-        "Design Patterns",
-        "Web Programming",
-        "Compiler Construction",
-        "Concurrent and Distributed Systems",
-        "High Performance Computing",
-        "Database Design"
+      ]
+    },
+    {
+      "institution": "Science College Hasilpur",
+      "name": "Science College Hasilpur",
+      "url": "http://pucit.edu.pk",
+      "area": "Fsc – Pre-Engineering / Intermediate",
+      "studyType": "Intermediate",
+      "startDate": "2010-07-01",
+      "endDate": "2012-09-01",
+      "courses": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "IASA IT Architecture Core (ITAC) – CITAF Certification",
-      "date": "2015-05-01",
-      "awarder": "Iasa Global",
-      "summary": "Anchors to the beginning of Architect position and responsibilities"
+      "title": "Exam 70 - 483 Programming in C#",
+      "date": "2020-05-01",
+      "awarder": "Microsoft",
+      "summary": ""
     },
     {
-      "title": "Won the GIKI SOFTCOM 08 (Programming Competition)",
-      "date": "2008-04-01",
-      "awarder": "GIKI University Pakistan",
-      "summary": "A speed programming competition of national level"
+      "title": "Secure Coding",
+      "date": "2021-12-01",
+      "awarder": "Secure Code Warrior",
+      "summary": ""
     }
   ],
   "skills": [
@@ -215,10 +217,6 @@
       "fluency": "Fluent"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
       "language": "Punjabi",
       "fluency": "Fluent"
     }
@@ -265,16 +263,10 @@
   ],
   "projects": [
     {
-      "name": "HiringSquadCreation",
-      "description": "A process consisting of humans to derive hiring spirit",
+      "name": "Incisive Logics ERP Solution",
+      "description": "Incisive Logics ERP Solution",
       "highlights": [
-        "Involves feedback for the candidate, hr and the team all at the same time",
-        "Distributed in nature, different domain people could be indulged at different time to get a streamlined feedback",
-        "Created a dashboard, that helps with feedback collection and process guidlines",
-        "Uses bleeding edge tools like Docsify, NodeJS and FormsIO",
-        "Introduced a model to auto test candidates without human interventions (Codility)",
-        "Enabled team to discuss and create problems near to them to check the ability of candidates to grasp it (Github)",
-        "Helped in creation of relevant job-descriptions; Which talks about the role and kind of individuals we as a team would like to work with"
+        "A complete enterprise solution that contains inventory system, payroll module, attendance management and Sales/Production etc. It was developed in Silverlight/XAML, WCF Ria services and SQL Server 2008. My responsibility was to develop payroll and attendance management system."
       ],
       "keywords": [
         "docsify",
